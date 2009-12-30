@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "ee_recipes"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{EE Recipes fro deploy}
+    gem.description = %Q{Recipes to deploy and manage expression engine with capistrano}
     gem.email = "jerrodblavos@mac.com"
     gem.homepage = "http://github.com/jerrod/ee_recipes"
     gem.authors = ["jayronc"]
